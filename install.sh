@@ -5,7 +5,7 @@ set -e
 
 # Project paths (adjust if needed)
 PROJECT_DIR="/opt/llm-admin"
-PYTHON_BIN="python3"          # or python3.11 etc.
+PYTHON_BIN="python3"          
 VENV_DIR="$PROJECT_DIR/venv"
 
 # Service ports
